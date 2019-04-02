@@ -1,0 +1,46 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 06D1-2D4D
+
+ Directory of C:\Users\KE40026434\PycharmProjects\charmcodes
+
+04/02/2019  02:25 PM    <DIR>          .
+04/02/2019  02:25 PM    <DIR>          ..
+04/02/2019  12:42 PM    <DIR>          .idea
+03/20/2019  12:25 PM             4,688 appending.xlsx
+03/19/2019  04:50 PM               669 checkxl.py
+03/20/2019  12:46 PM               719 DFF.py
+03/19/2019  05:55 PM               697 excel1.py
+03/19/2019  02:37 PM             5,360 Expense01.xlsx
+03/19/2019  02:12 PM             5,361 Expenses01.xlsx
+03/19/2019  04:39 PM             5,462 Expenses02.xlsx
+03/18/2019  04:06 PM             1,113 fninxml.py
+03/20/2019  11:56 AM               780 functionsinxl.py
+03/20/2019  12:51 PM               871 insertxl.py
+03/13/2019  12:35 PM                 0 items2.xml
+03/19/2019  05:38 PM               355 newxlll.py
+03/13/2019  06:11 PM               404 newxml.py
+03/18/2019  03:47 PM                87 newxml.xml
+03/13/2019  12:27 PM               255 opexml.py
+03/18/2019  04:11 PM               152 para.xml
+03/13/2019  12:23 PM               680 Parameters.xml
+04/02/2019  12:14 PM               227 pprime.py
+03/18/2019  04:41 PM               468 prett.py
+04/01/2019  06:38 PM               460 prime.py
+04/02/2019  02:25 PM                 0 read11.txt
+03/14/2019  11:36 AM               436 readxml.py
+03/19/2019  04:50 PM             5,415 s1.xlsx
+03/19/2019  05:37 PM             4,663 sample.xlsx
+03/14/2019  09:40 AM               609 task1xmlexample.py
+03/13/2019  07:43 PM               559 tej.py
+03/13/2019  06:42 PM               523 tej2.py
+03/18/2019  12:38 PM    <DIR>          venv
+03/18/2019  04:13 PM               754 wrxml.py
+03/19/2019  04:01 PM            10,206 x1.xlsx
+03/19/2019  04:42 PM             5,377 x16.xlsx
+03/19/2019  03:03 PM            10,211 x2.xlsx
+03/19/2019  04:21 PM             5,365 x3.xlsx
+03/19/2019  04:38 PM             5,377 x4.xlsx
+03/19/2019  04:42 PM             5,377 x6.xlsx
+03/20/2019  10:36 AM            11,902 x7.xlsx
+              35 File(s)         95,582 bytes
+               4 Dir(s)  96,953,810,944 bytes free
